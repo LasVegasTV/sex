@@ -1,9 +1,16 @@
-# Sex
+# Hosting Minecraft server
 
-we make the sex
+## Initialize DevEnv
 
-_we make the sex_
+### Install Docker-Desktop
+https://www.docker.com/products/docker-desktop/
 
-__we make the sex__
+### Run minecraft
+    # Run docker image
+    docker compose -d up
 
-## gaysex
+    # Stop docker image
+    docker compose stop
+
+## Docs
+https://github.com/itzg/docker-minecraft-server
