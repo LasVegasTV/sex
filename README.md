@@ -7,7 +7,7 @@ https://www.docker.com/products/docker-desktop/
 
 ### Run minecraft
     # Run docker image
-    docker compose -d up
+    docker compose up -d
 
     # Stop docker image
     docker compose stop
